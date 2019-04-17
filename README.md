@@ -2,4 +2,6 @@
 
 **域名: www.itguang.com**
 
+nginx配置文件地址: https://github.com/itguang/nginx-config
+
 
